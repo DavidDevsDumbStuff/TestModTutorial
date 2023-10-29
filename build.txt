@@ -1,0 +1,3 @@
+displayName = Test Mod
+author = whatever you want i guess lol oh wow this goes on for a while uhh is there a character limit i dont think so
+version = 0.1
